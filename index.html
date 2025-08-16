@@ -2,35 +2,28 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
-
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
-  <title>Frontend Mentor | Article preview component</title>
-
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
+  <title>Article preview component</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
 </head>
 <body>
-
-  Shift the overall look and feel by adding these wonderful 
-  touches to furniture in your home
-
-  Ever been in a room and felt like something was missing? Perhaps 
-  it felt slightly bare and uninviting. I’ve got some simple tips 
-  to help you make any room feel complete.
-
-  Michelle Appleton
-  28 Jun 2020
-
-  Share
-  
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
+    <main>
+        <article>
+            <picture>
+                <img src="/images/drawers.jpg" alt="Green dresser with framed art and a vase of dried flowers against a white brick wall" />
+            </picture>
+            <h1>Shift the overall look and feel by adding these wonderful touches to furniture in your home</h1>
+            <p>Ever been in a room and felt like something was missing? Perhaps it felt slightly bare and uninviting. I’ve got some simple tips to help you make any room feel complete.</p>
+            <footer>
+                <img src="/images/avatar-michelle.jpg" width="175" height="175" alt="Portrait of Michelle Appleton">
+                <h2>Michelle Appleton</h2>
+                <time datetime="2020-06-28">28 Jun 2020</time>
+                <button type="button" aria-label="Share this article">Share</button>
+            </footer>
+        </article>
+    </main>
+    <footer class="visually-hidden">
+      <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="https://www.ferfalcon.com/" target="_blank">Fer Falcon</a>.</p>
+    </footer>
 </body>
 </html>
