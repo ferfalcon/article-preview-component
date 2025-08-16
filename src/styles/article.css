@@ -3,6 +3,7 @@
     overflow: hidden;
     background: var(--neutral-100);
     box-shadow: 0 2.5rem 2.5rem -0.625rem var(--shadow);
+    position: relative;
 }
 
 .article__picture {
@@ -71,12 +72,36 @@
     background-image: url(/images/icon-share.svg);
     background-position: center;
     background-repeat: no-repeat;
+    z-index: 1;
 }
 
 .article__share {
+    background: var(--neutral-800);
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -4.75rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    min-height: 4.75rem;
+    padding: 1.5rem 1.875rem;
+    transition: bottom 0.25s ease-out;
+}
+
+.article__share.active {
+    bottom: 0;
+}
+
+.article__share-label {
     font-size: .813rem;
     line-height: 1.40;
     letter-spacing: .20rem;
     text-transform: uppercase;
     color: var(--neutral-300);
+    margin: 0 1rem 0 0;
+}
+
+.article__share-link {
+    line-height: 0;
 }
