@@ -1,0 +1,26 @@
+.article__heading {
+    font-size: 1.25rem;
+    line-height: 1.30;
+}
+
+.article__excerpt {
+    font-size: .813rem;
+    line-height: 1.40;
+}
+
+.article__author {
+    font-size: .813rem;
+    line-height: 1.40;
+}
+
+.article__date {
+    font-size: .813rem;
+    line-height: 1.40;
+}
+
+.article__share {
+    font-size: .813rem;
+    line-height: 1.40;
+    letter-spacing: .20rem;
+    text-transform: uppercase;
+}

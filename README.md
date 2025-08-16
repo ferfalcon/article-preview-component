@@ -48,6 +48,7 @@ Users should be able to:
 ### Useful resources
 
 - Fonts - [Google Fonts](https://fonts.google.com/)
+- Pixels to Rems [PX to REM converter](https://nekocalc.com/px-to-rem-converter)
 
 ## Author
 
