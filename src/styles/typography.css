@@ -1,21 +1,25 @@
 .article__heading {
     font-size: 1.25rem;
     line-height: 1.30;
+    color: var(--neutral-800);
 }
 
 .article__excerpt {
     font-size: .813rem;
     line-height: 1.40;
+    color: var(--neutral-600);
 }
 
 .article__author {
     font-size: .813rem;
     line-height: 1.40;
+    color: var(--neutral-800);
 }
 
 .article__date {
     font-size: .813rem;
     line-height: 1.40;
+    color: var(--neutral-300);
 }
 
 .article__share {
@@ -23,4 +27,5 @@
     line-height: 1.40;
     letter-spacing: .20rem;
     text-transform: uppercase;
+    color: var(--neutral-300);
 }
