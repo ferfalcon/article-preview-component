@@ -30,7 +30,10 @@ a:focus-visible {
   outline-offset: 3px;
 }
 
-.main-content { inline-size: min(100%, 20.4375rem); }
+.main-content { 
+  inline-size: min(100%, 20.4375rem);
+  margin: auto;
+}
 
 .article {
   position: relative;
