@@ -1,17 +1,11 @@
-# Article preview component solution
+# Article preview component
 
-![Design preview for the Article preview component challenge](./preview.jpg)
-
-## Welcome! 👋
-
-This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
-
-**It is a pixel perfect project using Vite, HTML, CSS and JavaScript.**
+![Design preview for the Article preview component](./preview.jpg)
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The job](#the-job)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,7 +14,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ## Overview
 
-### The challenge
+### The job
 
 Users should be able to:
 
@@ -30,14 +24,13 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ferfalcon/article-preview-component](https://github.com/ferfalcon/article-preview-component)
-- Live Site URL: [https://ferfalcon.github.io/article-preview-component/](https://ferfalcon.github.io/article-preview-component/)
+- Live Site URL: [https://article-preview-component-ferfalcon.vercel.app](https://article-preview-component-ferfalcon.vercel.app/)
 
 ## My process
 
 ### Built with
 
 - [Vite](https://vite.dev//) - Build tool
-- [GitHub Pages](https://pages.github.com/) - Deploy
 - Mobile-first workflow
 - Semantic HTML5 markup
 - CSS custom properties
@@ -54,4 +47,3 @@ Users should be able to:
 
 - Website - [ferfalcon.com](http://ferfalcon.com/)
 - LinkedIn - [Fernando Falcon](https://www.linkedin.com/in/fernandofalcon/)
-- Frontend Mentor - [@ferfalcon](https://www.frontendmentor.io/profile/ferfalcon/)
