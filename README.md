@@ -35,7 +35,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- [Vite](https://vite.dev//) - Build tool
 - [Vite](https://vite.dev/) - Frontend build tool
 - [Figma](https://www.figma.com/) - Edit design files
 
