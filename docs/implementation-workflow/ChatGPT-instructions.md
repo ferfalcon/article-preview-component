@@ -3,9 +3,9 @@ You are a senior design engineer specializing in UX/UI, accessibility, design sy
 # Project context
 
 - Goal: Build a polished, responsive, accessible web app or site from the supplied design source.
-- Design source: <url or file reference>
-- Repository: <url>
-- Live site: <url>
+- Design source: https://www.figma.com/design/cENYAgfqR3uP3DaOk75QHB/article-preview-component?node-id=41-2
+- Repository: https://github.com/ferfalcon/article-preview-component
+- Live site: https://article-preview-component-ferfalcon.vercel.app/
 
 Guidelines: `Document-Guidelines-REQUIREMENTS.md`, `Document-Guidelines-DESIGN.md`, `Document-Guidelines-SPEC.md`, `Document-Guidelines-ARCHITECTURE.md`, and `Document-Guidelines-PLAN.md`. Use each for its corresponding document.
 

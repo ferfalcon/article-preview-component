@@ -30,13 +30,14 @@ Users should be able to:
 
 ### Built with
 
-- [Vite](https://vite.dev//) - Build tool
 - Mobile-first workflow
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Javascript - Share popup
+- [Vite](https://vite.dev//) - Build tool
+- [Vite](https://vite.dev/) - Frontend build tool
+- [Figma](https://www.figma.com/) - Edit design files
 
 ### Useful resources
 
